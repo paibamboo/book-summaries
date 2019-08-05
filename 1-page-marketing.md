@@ -20,14 +20,14 @@
 ## Chapter 1: Selecting you target market
 
 ### Why targeting everyone with your product or service is a terrible idea
-Trying to target everyone really means that you’re targeting no one. By going too broad you kill your "specialness"
+Trying to target everyone really means that you're targeting no one. By going too broad you kill your "specialness"
 and become a commodity bought on price.
 
 ### Why mass marketing can be harmful to your business and cost you far more than it makes you
 For mass marketing or branding to work, it is too expensive for small businesses. You need to broadcast your message
 regularly for a long period of time via multiple media channels so that people remember and recognize you.
 
-### How to use the “PVP index” to select your perfect target market
+### How to use the "PVP index" to select your perfect target market
 A great way of figuring out your ideal target market is to use the PVP index by giving each market segment you serve a
 rating out of 10.
 - P - Personal Fulfilment
@@ -44,8 +44,8 @@ rather than shopped on price. A specialist is much more highly respected than a 
 handsomely to solve a specific problem for their target market.
 
 ### Why you should stop advertising a long list of products and services
-If the ad just rolls out a broad laundry list of products or services, then it’s not speaking to any prospects,
-therefore it’s not relevant, and it will likely be ignored by all market segments.
+If the ad just rolls out a broad laundry list of products or services, then it's not speaking to any prospects,
+therefore it's not relevant, and it will likely be ignored by all market segments.
  
 ### How to go deep into the mind of your prospect so you can understand exactly what they want
 One of the best tools for getting into the mind of your prospects is to temporarily become them by creating an avatar.
@@ -65,31 +65,31 @@ By doing this, you enter the conversation already going on in the mind of your i
 deeper level with your prospect, and your ad will stand out from 99% of other ads that are just shouting and talking
 about themselves.
 
-### How to stand out from the crowd even when you’re selling a commodity
+### How to stand out from the crowd even when you're selling a commodity
 By developing unique selling proposition. Something that positions you differently, so that prospects are forced to
 make an apples-to-oranges comparison when comparing you with your competitor.
 
-If they can do an apples-to-apples comparison of you and your competitors, then it comes down to price, and you’re toast.
-There’s always someone willing to sell cheaper than you.
+If they can do an apples-to-apples comparison of you and your competitors, then it comes down to price, and you're toast.
+There's always someone willing to sell cheaper than you.
 
 So the two questions you must ask yourself and answer are:
 - Why should they buy?
 - Why should they buy from me?
 
 What is the unique advantage you are offering? Now, the uniqueness does not have to be in the product itself.
-In fact, it’s fair to say that there are very few truly unique products. The uniqueness may be in the way
+In fact, it's fair to say that there are very few truly unique products. The uniqueness may be in the way
 it is packaged, delivered, supported or even sold.
  
 ### Why you should never compete solely on price
 A USP that promises the lowest prices on some things, some of the time is not quite so compelling.
-The fact is, if you’re a small or medium business, you’re unlikely to beat the big discounters at the lowest price game.
+The fact is, if you're a small or medium business, you're unlikely to beat the big discounters at the lowest price game.
 
 ### How to craft a compelling offer for your target market
 #### Questions to ask yourself
 - Of all the products and services you offer, which do you have the most confidence in delivering?
 - Of all the products and services you offer, which do you enjoy delivering the most?
-- What is my target market really buying? For example, people don’t really buy insurance; they buy peace of mind.
-- What’s the biggest benefit to lead with?
+- What is my target market really buying? For example, people don't really buy insurance; they buy peace of mind.
+- What's the biggest benefit to lead with?
 - What are the best emotionally charged words and phrases that will capture and hold the attention of this market?
 - What objections do my prospects have and how will I solve them?
 - What outrageous offer (including a guarantee) can I make? 
@@ -100,7 +100,7 @@ The fact is, if you’re a small or medium business, you’re unlikely to beat t
 #### What does my target market want?
 By analyzing what your target market is actually buying or looking for
 - Look at products and categories that are trending on marketplaces like Amazon and eBay.
-- Analyzing search engine queries using a tool like Google’s AdWords Keyword Planner can be another excellent method.
+- Analyzing search engine queries using a tool like Google's AdWords Keyword Planner can be another excellent method.
 - See what topics are trending on social media and industry news sites. What are people commenting on and reacting to?
 
 #### Offers
@@ -127,6 +127,57 @@ your personality will help you stand out in a sea of sameness and monotony.
 - Find out what they blame, and use a device in your copy known as "the enemy in common".
 
 ### How to effectively name your business, product, or service
-If the name does not make it automatically obvious what the product, service or business is, then you’re starting
+If the name does not make it automatically obvious what the product, service or business is, then you're starting
 from behind.
+
+## Chapter 3: Reaching prospects with advertising media
+
+### How to measure success of marketing campaign
+By calculating ROI on the marketing campaign. If it cost you more than you made (or will ever make) on this campaign,
+then it’s a failure. If it cost you less than the profits you made as result of the campaign, then it’s a success.
+In some cases like subscription services, it is okay for ROI to go negative if you know that customers will come back
+and keep paying in the future. 
+
+### The lifetime value of a customer and how this is split up between the "front end" and "back end"
+The money we make up front on a campaign is known as "the front end." The money we make on subsequent purchases is known
+as "the back end." Together, these figures make up the lifetime value of a customer.
+
+### The role that social media plays in your business
+Social media, by definition, is a form of media - it's not a strategy.
+
+### Pros
+- It's a great place to create and extend relationships that can later turn into something commercial.
+- It enables you to gauge customer emotions toward your business and engage with vocal customers who offer either praise
+or complaints in a public form.
+
+#### Cons
+- It's not the ideal selling environment. same. Overt selling and constant pitching of offers are generally considered
+poor behavior on social networks and can result in repelling people from your business rather than attracting them to it.
+- It can be a time suck.
+- Question of ownership. You don't actually own it.
  
+
+### How to effectively use email and postal mail as part of your media strategy
+#### Email
+An email also enables you to maintain a close relationship with your customer base and makes it easy to test and launch
+new products and services.
+- Don't spam
+- Be human
+- Use a commercial email marketing system
+- Email regularly
+- Give them value
+- Automate
+
+#### Postal mail
+It would be a mistake to underestimate the power of physical objects when it comes to moving people emotionally.
+And, moving people emotionally towards a desired action is what marketing is all about.
+
+Postal mail has a much longer lifespan and requires effort to dispose of. It’s not uncommon for people to treasure and
+keep postal letters from significant people in their lives for decades.
+
+Another important point about postal mail is that it has become significantly less cluttered over the past few years,
+which from a marketer’s perspective is a dream come true.
+
+### How to protect your business from "a single point of failure"
+One is the most dangerous number in your business. It makes businesses brittle.
+Identify and eliminate single points of failures in your business.
