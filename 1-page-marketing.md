@@ -24,7 +24,7 @@ Trying to target everyone really means that you’re targeting no one. By going 
 and become a commodity bought on price.
 
 ### Why mass marketing can be harmful to your business and cost you far more than it makes you
-For mass marketing or branding to work, it is too expensive for small businesses. You need broadcast your message
+For mass marketing or branding to work, it is too expensive for small businesses. You need to broadcast your message
 regularly for a long period of time via multiple media channels so that people remember and recognize you.
 
 ### How to use the “PVP index” to select your perfect target market
