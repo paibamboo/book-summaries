@@ -118,9 +118,9 @@ your personality will help you stand out in a sea of sameness and monotony.
 
 ### How to enter the mind of your prospect and join the conversation going on in there
 - Before you ever write a single word of copy, you must intimately understand
-  - how your target market thinks and talks,
+  - how your target market thinks and talks
   - the kind of language they use and respond to
-  - what kind of day they have and the conversation that goes on in their minds.
+  - what kind of day they have and the conversation that goes on in their minds
   - their fears and frustrations
   - what gets them excited and motivated
 - Tell potential prospects who your product or service is NOT for.
