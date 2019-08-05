@@ -112,7 +112,7 @@ By analyzing what your target market is actually buying or looking for
 - Guarantee
 - Scarcity
 - Target the pain
-- Don't use monotone professional sales copy. open. People love to be entertained. Being yourself and bringing out
+- Don't use monotone professional sales copy. People love to be entertained. Being yourself and bringing out
 your personality will help you stand out in a sea of sameness and monotony.
 - People buy from people, not from corporations.
 
