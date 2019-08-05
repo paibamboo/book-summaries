@@ -181,3 +181,48 @@ which from a marketer’s perspective is a dream come true.
 ### How to protect your business from "a single point of failure"
 One is the most dangerous number in your business. It makes businesses brittle.
 Identify and eliminate single points of failures in your business.
+
+## Chapter 4: Capturing leads
+
+### Why you should never try to sell directly from an advertisement and what to do instead
+It’s true that some people reading your ad might be ready to buy immediately, but the vast majority will not be ready to
+make a purchasing decision on the very day they read your ad, even if they are interested in what you do.
+
+### How to transition from "hunting" to "farming" and ensure you always have a full pipeline of new business
+In direct response marketing, the purpose of your advertising is to find people who are interested in what you do rather
+than trying to make an immediate sale from the ad. When your interested leads respond, you put them in your follow-up
+database so that you can build value for them, position yourself as an authority and create a relationship built on trust.
+
+After doing this, the sale comes (if it’s right for them) as a natural consequence.
+
+### Why you shouldn’t treat all prospects equally
+Different people have different degree of interest into your product or service. You want to focus on those who are
+really interested in your product or service.
+
+### How to use an "ethical bribe" to uncover high-probability prospects
+You promise to give them helpful resources like reports or videos on the topic that you think your target market is very
+interested in in exchange for their contact information like email.
+
+### How to instantly increase the effectiveness of your advertising by 1,233%
+At any given time (on average) about 3% of your target market is highly motivated and ready to buy immediately.
+These are the prospects most mass marketing hopes to convert. However, there’s a further 7% who are very open to buying
+and another 30% who are interested but not right now. The next 30% are not interested and finally the last 30% would not
+take your product, even if it were free.
+
+By creating a lead-generating ad, you increase your addressable market to 40%. You do this by capturing the 3% who are
+immediate buyers but also by capturing the 7% who are open to talking, as well as the 30% who are interested but not
+right now.
+
+By going from a 3% addressable market to 40%, you’re increasing the effectiveness of your advertising by 1,233%.
+
+### Why some businesses get a constant flow of leads and prospects while others struggle
+By building a marketing infrastructure. It will help you constantly brings in new leads, follows them up, nurtures and
+converts them into raving fan customers.
+
+At the absolute center of your marketing infrastructure is your database of customers and prospects, but to manage your
+database effectively, you really need a customer relationship management (CRM) system. The CRM system is your marketing
+nerve center. It’s where you manage your goldmine.
+
+### How to be seen as an expert and authority by your target market
+When you educate and teach, you are seen as an expert and an authority. You’re no longer questioned; instead you are
+obeyed and seen to have a personal, genuine, helpful interest in other people.
