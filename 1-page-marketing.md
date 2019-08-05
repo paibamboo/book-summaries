@@ -12,7 +12,7 @@
   - It includes a multi-step short-term followup.
   - It incorporates maintenance followup of unconverted leads.
 - 1-page-marketing plan consists of 3 phrases which are before, during, and after phrases.
-  - Before phrase - goal is get them to know you and indicate interest.
-  - During phrase - goal is get them to like you and buy from you for the first time.
-  - After phrase - get them to trust you to buy from you repeatedly and are such a fan of your product/service that they 
+  - Before phrase - goal is to get them to know you and indicate interest.
+  - During phrase - goal is to get them to like you and buy from you for the first time.
+  - After phrase - goal is to get them to trust you to buy from you repeatedly and are such a fan of your product/service that they 
   consistently recommend you and introduce you to new prospects.
