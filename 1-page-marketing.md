@@ -53,5 +53,80 @@ An avatar is a detailed exploration and description of your target customer and 
 It's also important to create avatars for each type of decision maker or influencer you might encounter in your target
 market.
 
+## Chapter 2: Crafting your message
 
+### Why most advertising is totally useless and what to do instead
+Most advertising by small businesses is inwardly focused. Instead of speaking to the needs and problems of the prospect,
+it is focused on self-aggrandizement. The prominent logo and company name, the laundry list of services, the claims of
+being the leading provider of that product or service.
+
+By contrast, direct response marketing focuses heavily on the needs, thoughts, and emotions of the target market.
+By doing this, you enter the conversation already going on in the mind of your ideal prospect. You will resonate at a
+deeper level with your prospect, and your ad will stand out from 99% of other ads that are just shouting and talking
+about themselves.
+
+### How to stand out from the crowd even when you’re selling a commodity
+By developing unique selling proposition. Something that positions you differently, so that prospects are forced to
+make an apples-to-oranges comparison when comparing you with your competitor.
+
+If they can do an apples-to-apples comparison of you and your competitors, then it comes down to price, and you’re toast.
+There’s always someone willing to sell cheaper than you.
+
+So the two questions you must ask yourself and answer are:
+- Why should they buy?
+- Why should they buy from me?
+
+What is the unique advantage you are offering? Now, the uniqueness does not have to be in the product itself.
+In fact, it’s fair to say that there are very few truly unique products. The uniqueness may be in the way
+it is packaged, delivered, supported or even sold.
+ 
+### Why you should never compete solely on price
+A USP that promises the lowest prices on some things, some of the time is not quite so compelling.
+The fact is, if you’re a small or medium business, you’re unlikely to beat the big discounters at the lowest price game.
+
+### How to craft a compelling offer for your target market
+#### Questions to ask yourself
+- Of all the products and services you offer, which do you have the most confidence in delivering?
+- Of all the products and services you offer, which do you enjoy delivering the most?
+- What is my target market really buying? For example, people don’t really buy insurance; they buy peace of mind.
+- What’s the biggest benefit to lead with?
+- What are the best emotionally charged words and phrases that will capture and hold the attention of this market?
+- What objections do my prospects have and how will I solve them?
+- What outrageous offer (including a guarantee) can I make? 
+- Is there an intriguing story I can tell?
+- Who else is selling something similar to my product or service, and how?
+- Who else has tried selling this target market something similar, and how has that effort failed? 
+ 
+#### What does my target market want?
+By analyzing what your target market is actually buying or looking for
+- Look at products and categories that are trending on marketplaces like Amazon and eBay.
+- Analyzing search engine queries using a tool like Google’s AdWords Keyword Planner can be another excellent method.
+- See what topics are trending on social media and industry news sites. What are people commenting on and reacting to?
+
+#### Offers
+- Language - You need to learn the language and jargon used within your target market.
+- Reason why - When you have a great offer, you need to justify why you are doing this.
+- Value stacking - Packing in many bonuses can make your offer seems like a no-brainer.
+- Upsells
+- Payment plan
+- Guarantee
+- Scarcity
+- Target the pain
+- Don't use monotone professional sales copy. open. People love to be entertained. Being yourself and bringing out
+your personality will help you stand out in a sea of sameness and monotony.
+- People buy from people, not from corporations.
+
+### How to enter the mind of your prospect and join the conversation going on in there
+- Before you ever write a single word of copy, you must intimately understand
+  - how your target market thinks and talks,
+  - the kind of language they use and respond to
+  - what kind of day they have and the conversation that goes on in their minds.
+  - their fears and frustrations
+  - what gets them excited and motivated
+- Tell potential prospects who your product or service is NOT for.
+- Find out what they blame, and use a device in your copy known as "the enemy in common".
+
+### How to effectively name your business, product, or service
+If the name does not make it automatically obvious what the product, service or business is, then you’re starting
+from behind.
  
